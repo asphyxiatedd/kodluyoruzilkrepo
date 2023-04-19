@@ -11,6 +11,16 @@ Bu repo [kodluyoruz](https://kodluyoruz.org) front-end eğitimineki oluşturduğ
 Dosyaları bulunuyor.
 
 ***
-
-![geleceği kodluyoruz](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffonzip.com%2Fkodluyoruz%2Fkampanya%2F-genclerin-yazilim-hareketine-sen-de-katil---2&psig=AOvVaw1JQHWzFDCpotVsA4qrnC2_&ust=1681856305146000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCICG7Iz5sf4CFQAAAAAdAAAAABAS) 
-*** 
+## Installation
+Öncelikle projeyi clonelayın.
+```
+ (https://github.com/asphyxiatedd/kodluyoruzilkrepo.git)
+```
+## Usage
+```
+https://github.com/ersel08/kodluyoruzilkrepo/blob/main/LICENSE
+``` 
+## Contributing
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
